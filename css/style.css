@@ -34,6 +34,7 @@ height: 6em;
   margin-right: auto;
   min-width: 768px;
   padding: 300px;
+  display: flex;
 }
 
 
